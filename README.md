@@ -80,17 +80,14 @@ As part of our construct week for group project in Unit 3 at Masai School, we we
 
 ## Roles and Responsibilities
 
-- Github repository and Readme file done by **Deepak**.
-- Landing page design made by **Deepak**.
-- Navbar made by **Akash**.
-- Footer made by **Vishal**.
-- Sign in and Review & Rating made by **Riya**.
-- Products & Services page made by **Bhavesh**.
-- Sub-Products & Services page made by **Bhavesh**.
-- About Us page made by **Vishal**.
-- Contact Us page made by **Vishal**.
-- Quote form & Box Modal made by **Chandraprakash**.
-- Blog written by **Riya**, contributions by **Akash**, **Deepak**, **Vishal**, **Bhavesh** & **Chandraprakash**.
+- Github repository and Readme file done.
+- Landing page design made
+- Sign in and Review & Rating made.
+- Products & Services page made.
+- Sub-Products & Services page made.
+- About Us page made.
+- Contact Us page made.
+- Quote form & Box Modal made.
 ## Lessons Learned
 
 - Use of GitHub to collaborate.
