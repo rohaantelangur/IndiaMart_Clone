@@ -11,7 +11,7 @@ As part of our construct week for group project in Unit 3 at Masai School, we we
 
 **Netlify link of our project**: https://indiamart-blue-heaven.netlify.app/index.html
 
-**Blog link**: https://medium.com/@riyagshah4/4b0a193931e3
+**Blog link**: https://medium.com/@rohaan.telangur/project-at-masai-school-indiamart-blue-heaven-cosmetics-clone-55e4c75a2053
 ## Authors
 
 - Rohaan Telangur
