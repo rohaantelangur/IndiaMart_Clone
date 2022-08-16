@@ -14,14 +14,8 @@ As part of our construct week for group project in Unit 3 at Masai School, we we
 **Blog link**: https://medium.com/@riyagshah4/4b0a193931e3
 ## Authors
 
-- Riya Girish Shah
-- Bhavesh Jain
-- Akash Gupta
-- Deepak Rajput
-- Chandraprakash Sahu
-- Bhuse Vishal Vishnu
+- Rohaan Telangur
  
-
 
 ## Tech Stack
 
